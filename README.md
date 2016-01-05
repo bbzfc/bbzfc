@@ -64,7 +64,7 @@ discussion issues.
 ## Real time chat
 
 - IRC channel: You can try joining **@freenode / #bbzfc**.
-- Slack: https://bbzfc.slack.com/
+- Slack: https://bbzfc.slack.com/ (e-mail me at <valera.rozuvan@gmail.com> if you are unable to  join).
 
 ## License
 
