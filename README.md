@@ -27,7 +27,7 @@ for the project to really take up pace.
 5. Foundation matters.
 6. Manifesto of the project
 
-At this stage, these things will can be discussed in separate GitHub issues
+At this stage, these things can be discussed in separate GitHub issues
 (click on any one of them, and you will be directed to the Issue page).
 Anyone can contribute to the discussion, you just need to be registered with
 GitHub.
