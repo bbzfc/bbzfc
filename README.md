@@ -22,7 +22,7 @@ for the project to really take up pace.
 1. Game engine. To use one or not.
 2. Gameplay elements from BZFlag that must remain.
 3. Gameplay elements from BZFlag that should be abandoned.
-4. Flag to keep. Flags to drop = )
+4. Flags to keep. Flags to drop = )
 4. Server design.
 5. Foundation matters.
 6. Manifesto of the project
