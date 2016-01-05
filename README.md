@@ -19,9 +19,9 @@ the original BZFlag.
 People like me need to gather together, and discuss several things in order
 for the project to really take up pace.
 
-1. Game engine. To use one or not.
-2. Gameplay elements from BZFlag that must remain.
-3. Gameplay elements from BZFlag that should be abandoned.
+1. [Game engine. To use one or not.](https://github.com/valera-rozuvan/bbzfc/issues/1)
+2. [Gameplay elements from BZFlag that must remain.](https://github.com/valera-rozuvan/bbzfc/issues/2)
+3. [Gameplay elements from BZFlag that should be abandoned.]()
 4. Flags to keep. Flags to drop = )
 4. Server design.
 5. Foundation matters.
