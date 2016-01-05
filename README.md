@@ -37,6 +37,10 @@ GitHub.
 Anyone is welcome to join. Show your willingness to participate by joining the
 discussion issues.
 
+## IRC channel
+
+You can try joining **@freenode / #bbzfc**.
+
 ## License
 
 The plan is to use the MIT license. Please see [LICENSE](LICENSE).
