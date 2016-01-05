@@ -21,11 +21,11 @@ for the project to really take up pace.
 
 1. [Game engine. To use one or not.](https://github.com/valera-rozuvan/bbzfc/issues/1)
 2. [Gameplay elements from BZFlag that must remain.](https://github.com/valera-rozuvan/bbzfc/issues/2)
-3. [Gameplay elements from BZFlag that should be abandoned.]()
-4. Flags to keep. Flags to drop = )
-4. Server design.
-5. Foundation matters.
-6. Manifesto of the project
+3. [Gameplay elements from BZFlag that should be abandoned.](https://github.com/valera-rozuvan/bbzfc/issues/3)
+4. [Flags to keep. Flags to drop = )](https://github.com/valera-rozuvan/bbzfc/issues/4)
+4. [Server design.](https://github.com/valera-rozuvan/bbzfc/issues/5)
+5. [Foundation matters.](https://github.com/valera-rozuvan/bbzfc/issues/6)
+6. [Manifesto of the project](https://github.com/valera-rozuvan/bbzfc/issues/7)
 
 At this stage, these things can be discussed in separate GitHub issues
 (click on any one of them, and you will be directed to the Issue page).
