@@ -34,7 +34,7 @@ GitHub.
 
 ## Contributing
 
-Anyone is welcome to join. Show your willingness to partiocpate by joining the
+Anyone is welcome to join. Show your willingness to participate by joining the
 discussion issues.
 
 ## License
