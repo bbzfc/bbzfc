@@ -61,9 +61,10 @@ issues, code ownership, project leadership, etc.)
 Anyone is welcome to join. Show your willingness to participate by joining the
 discussion issues.
 
-## IRC channel
+## Real time chat
 
-You can try joining **@freenode / #bbzfc**.
+- IRC channel: You can try joining **@freenode / #bbzfc**.
+- Slack: https://bbzfc.slack.com/
 
 ## License
 
