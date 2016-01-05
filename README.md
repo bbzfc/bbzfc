@@ -11,8 +11,8 @@ am not alone in thinking that something needs to change. However, with the
 way BZFlag project is setup, it's impossible to introduce ground-braking
 changes. Changes that absolutely must happen for the game to survive.
 Therefore I am starting a clone of BZFlag. I dream that one day, a game
-in the spirit of BZFlag will be completed, but a game that is better one
-many levels than the original BZFlag.
+in the spirit of BZFlag will be completed, but a game that is better than
+the original BZFlag.
 
 ## The plan
 
