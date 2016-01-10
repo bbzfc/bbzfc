@@ -1,6 +1,6 @@
 # Cross platform support
 
-[bbzfc specs](../project_specs.md) **>>** [Technical specifications](project_specs/technical_specifications.md) **>>** `Cross platform support`
+[bbzfc specs](../project_specs.md) **>>** [Technical specifications](technical_specifications.md) **>>** `Cross platform support`
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
 aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
