@@ -1,6 +1,11 @@
-# Match types
+# Ideology
 
-[bbzfc specs](../project_specs.md) **>>** [Technical specifications](technical_specifications.md) **>>** [Game mechanics](game_mechanics.md) **>>** `Match types`
+[bbzfc specs](../bbzfc_specs.md) **>>** `Ideology`
+
+1. [Manifesto](bbzfc_specs/manifesto.md)
+2. [License](bbzfc_specs/license.md)
+
+---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
 aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
