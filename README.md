@@ -36,8 +36,8 @@ exist) to always be available. A last note - everyone is welcome to join = )
 
 - IRC channel. Please connect to the IRC channel **#bbzfc** on the  **freenode** server. You can find the logs of this
 channel at [http://irclog.bbzfc.net/](http://irclog.bbzfc.net/).
-- Slack collaboration. Access URL is [https://bbzfc.slack.com/](https://bbzfc.slack.com/) (please e-mail me at
-<admin@bbzfc.net> if you are unable to join).
+- Slack collaboration. Access URL is [https://bbzfc.slack.com/](https://bbzfc.slack.com/) (please send an e-mail to
+<admin@bbzfc.net> if you are unable to join/register on the forum).
 
 
 ## License
