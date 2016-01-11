@@ -2,11 +2,11 @@
 
 [bbzfc specs](../bbzfc_specs.md) **>>** [Technical specifications](technical_specifications.md) **>>** `Servers`
 
-1. [Main servers](bbzfc_specs/main_servers.md)
-2. [Trusted helper servers](bbzfc_specs/trusted_helper_servers.md)
-3. [Server configuration](bbzfc_specs/server_configuration.md)
-4. [Simplified server schema](bbzfc_specs/simplified_server_schema.md)
-5. [System load and scalability](bbzfc_specs/system_load_and_scalability.md)
+1. [Main servers](main_servers.md)
+2. [Trusted helper servers](trusted_helper_servers.md)
+3. [Server configuration](server_configuration.md)
+4. [Simplified server schema](simplified_server_schema.md)
+5. [System load and scalability](system_load_and_scalability.md)
 
 ---
 

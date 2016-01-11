@@ -2,12 +2,12 @@
 
 [bbzfc specs](../bbzfc_specs.md) **>>** [Technical specifications](technical_specifications.md) **>>** `Game mechanics`
 
-1. [Game play](bbzfc_specs/game_play.md)
-2. [Game dynamics](bbzfc_specs/game_dynamics.md)
-3. [Flags](bbzfc_specs/flags.md)
-4. [Match types](bbzfc_specs/match_types.md)
-5. [Game worlds](bbzfc_specs/game_worlds.md)
-6. [Difficulty level control](bbzfc_specs/difficulty_level_control.md)
+1. [Game play](game_play.md)
+2. [Game dynamics](game_dynamics.md)
+3. [Flags](flags.md)
+4. [Match types](match_types.md)
+5. [Game worlds](game_worlds.md)
+6. [Difficulty level control](difficulty_level_control.md)
 
 ---
 

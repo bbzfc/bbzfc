@@ -2,8 +2,8 @@
 
 [bbzfc specs](../bbzfc_specs.md) **>>** `Ideology`
 
-1. [Manifesto](bbzfc_specs/manifesto.md)
-2. [License](bbzfc_specs/license.md)
+1. [Manifesto](manifesto.md)
+2. [License](license.md)
 
 ---
 
