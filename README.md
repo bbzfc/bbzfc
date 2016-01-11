@@ -42,4 +42,4 @@ channel at [http://irclog.bbzfc.net/](http://irclog.bbzfc.net/).
 
 ## License
 
-The bbzfc project source code is released under The MIT license. Please see [LICENSE](LICENSE).
+The **bbzfc** project source code is released under **The MIT License (MIT)**. Please see [LICENSE](LICENSE).
