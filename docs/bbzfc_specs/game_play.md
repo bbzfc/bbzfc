@@ -4,20 +4,20 @@
 
 ---
 
-A client (player, gamer) plays the game controlling a tank inside a game world. The primary objective of the game is to
-destroy other tanks and not get destroyed yourself.
+A client (player, gamer) plays the game controlling a tank inside a **Game World**. The primary objective of the game is
+to destroy other tanks and not get destroyed yourself.
 
-The game can be played in Single Player Mode, and Multiplayer Mode.
+The game can be played in **Single Player Mode**, and **Multiplayer Mode**.
 
 
 ## Single Player Mode
 
-In Single Player Mode an Internet connection is not required. The player can choose to play a training mission or a AI
-mission. Training missions' objective is to destroy all static targets in as little of time as possible. AI missions
-will present you with static targets and AI (Artificial Intelligence) controlled enemy tanks that will try to kill you.
-AI missions' objective is to destroy all static targets in as little time ass possible **without getting killed**.
-Single Player Mode missions will be available in various Game worlds (different maps, and other game rules to be
-described later).
+In **Single Player Mode** an Internet connection is not required. The player can choose to play a **Training Mission**
+or a **AI Mission**. **Training Missions'** objective is to destroy all static targets in as little of time as possible.
+**AI Missions** will present you with static targets and AI (Artificial Intelligence) controlled enemy tanks that will
+try to destroy you. **AI Missions'** objective is to destroy all static targets in as little time ass possible
+**without getting destroyed**. **Single Player Mode missions** will be available in various **Game Worlds** (different
+maps, and other game rules to be described later).
 
 
 ## Multiplayer Mode
@@ -27,6 +27,6 @@ with others inside a Game World. Depending on the match type (to be described la
 presented to the player:
 
 - destroy other tanks
-- don't get killed
+- don't get destroyed
 - capture territory
 - capture the flag
