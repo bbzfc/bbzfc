@@ -16,17 +16,20 @@ In **Single Player Mode** an Internet connection is not required. The player can
 or a **AI Mission**. **Training Missions'** objective is to destroy all static targets in as little of time as possible.
 **AI Missions** will present you with static targets and AI (Artificial Intelligence) controlled enemy tanks that will
 try to destroy you. **AI Missions'** objective is to destroy all static targets in as little time ass possible
-**without getting destroyed**. **Single Player Mode missions** will be available in various **Game Worlds** (different
-maps, and other game rules to be described later).
+__without getting destroyed__. **Single Player Mode** missions will be available in various pre-made **Game Worlds**
+(different maps, and other game rules to be described later).
 
 
 ## Multiplayer Mode
 
-In Multiplayer Mode a LAN connection or an Internet connection is required for joining a game. The player plays along
-with others inside a Game World. Depending on the match type (to be described later), several objectives will be
+In **Multiplayer Mode** a LAN connection or an Internet connection is required for joining a game. The player plays
+along with others inside a Game World. Depending on the match type (to be described later), several objectives will be
 presented to the player:
 
 - destroy other tanks
 - don't get destroyed
 - capture territory
 - capture the flag
+
+**Multiplayer Mode** missions will be available in various pre-made **Game Worlds** (different maps, and other game
+rules to be described later), and also player-made custom **Game Worlds**.
