@@ -7,7 +7,8 @@
 3. [Flags](flags.md)
 4. [Match types](match_types.md)
 5. [Game worlds](game_worlds.md)
-6. [Difficulty level control](difficulty_level_control.md)
+6. [Player level](player_level.md)
+7. [Difficulty level control](difficulty_level_control.md)
 
 ---
 
