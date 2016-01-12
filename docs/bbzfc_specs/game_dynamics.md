@@ -2,7 +2,17 @@
 
 [bbzfc specs](../bbzfc_specs.md) **>>** [Technical specifications](technical_specifications.md) **>>** [Game mechanics](game_mechanics.md) **>>** `Game dynamics`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+
+Specific rules about tank and world dynamics. Not in any particular order.
+
+- Rigid body physics.
+- Simplified cartoon-like game world. **bbzfc** does not aim at generating real world graphics.
+- Inside-the-cockpit FPS view for complete tank control (movement and shooting).
+- Fly-by, and follow mode for simplified tank control (only movement)
+- Gravity doesn't affect trajectory of bullets.
+- One shot equals one kill.
+- An in-game set of flags that modify the tank's abilities.
+- Tank can go up ramps, and it tilts while doing this. Tank can shoot while tilted.
+- Tank can drive forwards, backwards, turn left, turn right, jump, and shoot.
+- Three possible projectiles for shooting: bullets, lasers, guided missiles.
