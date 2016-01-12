@@ -7,7 +7,7 @@
 Specific rules about tank and world dynamics. Not in any particular order.
 
 - Rigid body physics.
-- Simplified cartoon-like game world. **bbzfc** does not aim at generating real world graphics.
+- Simplified cartoon-like game world. **bbzfc** does not aim at reproducing the real world.
 - Inside-the-cockpit FPS view for complete tank control (movement and shooting).
 - Fly-by, and follow mode for simplified tank control (only movement)
 - Gravity doesn't affect trajectory of bullets.
