@@ -12,12 +12,12 @@ The game can be played in **Single Player Mode**, and **Multiplayer Mode**.
 
 ## Single Player Mode
 
-In **Single Player Mode** an Internet connection is not required. The player can choose to play a **Training Mission**
-or a **AI Mission**. **Training Missions'** objective is to destroy all static targets in as little of time as possible.
-**AI Missions** will present you with static targets and AI (Artificial Intelligence) controlled enemy tanks that will
-try to destroy you. **AI Missions'** objective is to destroy all static targets in as little time ass possible
-__without getting destroyed__. **Single Player Mode** missions will be available in various pre-made **Game Worlds**
-(different maps, and other game rules to be described later).
+In **Single Player Mode** an Internet connection (or a LAN connection) is not required. The player can choose to play a
+**Training Mission** or a **AI Mission**. **Training Missions'** objective is to destroy all static targets in as little
+of time as possible. **AI Missions** will present you with static targets and AI (Artificial Intelligence) controlled
+enemy tanks that will try to destroy you. **AI Missions'** objective is to destroy all static targets in as little time
+as possible "without getting destroyed". **Single Player Mode** missions will be available in various pre-made
+**Game Worlds** (different maps, and other game rules to be described later).
 
 
 ## Multiplayer Mode
