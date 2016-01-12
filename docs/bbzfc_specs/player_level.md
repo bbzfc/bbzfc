@@ -17,7 +17,7 @@ On a **Main Server** the following statistics for each player will be kept:
 
 - Player level.
 - Player kills/deaths ratio.
-- Total number of games played (for each of the 5 types).
+- Total number of games played (for each of the 5 **Match Types**).
 - Leagues the player played in.
 
 The main logic behind the **Player Level** is that **Game Worlds** can be configured to allow play between similarly
