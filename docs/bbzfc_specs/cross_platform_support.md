@@ -10,9 +10,10 @@ There will be three parts to the **bbzfc** project:
 2. The observer. You can only observe a game.
 3. The server infrastructure.
 
-**The client** will target Linux, Windows, and Mac OSX. The game will require some sort of game controller (keyboard and
-mouse, or a gamepad). I.e. initially **bbzfc** will be playable only on a PC-based system (the desktop computer, laptop,
-embedded devices such as Raspberry PI, etc.).
+**The client** will target [Linux](https://en.wikipedia.org/wiki/Linux),
+[Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows), and [OS X](https://en.wikipedia.org/wiki/OS_X).
+The game will require some sort of a game controller (keyboard and mouse, or a gamepad). I.e. initially **bbzfc** will
+be playable only on a PC-based system (the desktop computer, laptop, embedded devices such as Raspberry PI, etc.).
 
 **The observer** will utilize the latest web technologies to make it available on the largest number of platforms
 currently in use. Basically, anything that has a web browser and an Internet connection will be able to connect to a
@@ -22,8 +23,8 @@ game server and view a game match.
 easier, and shorten the development time. Linux is available as an option of a virtual system's OS on nearly all current
 cloud hosting solutions.
 
-In the future, when **bbzfc** matures, gaming platforms such as Sony's PlayStation or Microsoft's XBOX might be
-considered as a way to expand the game's user base.
+In the future, when **bbzfc** matures, gaming platforms such as [PlayStation](https://en.wikipedia.org/wiki/PlayStation)
+or [Xbox](https://en.wikipedia.org/wiki/Xbox) might be considered as a way to expand the game's user base.
 
 Also, an API will be exposed for developers who want to develop a native mobile game client with full functionality
 support (i.e. gameplay, and observer mode).
