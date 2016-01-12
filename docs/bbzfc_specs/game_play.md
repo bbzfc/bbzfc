@@ -7,7 +7,7 @@
 A client (player, gamer) plays the game controlling a tank inside a game world. The primary objective of the game is to
 destroy other tanks and not get destroyed yourself.
 
-The game can be played in the Single Player Mode, and Multiplayer Mode.
+The game can be played in Single Player Mode, and Multiplayer Mode.
 
 
 ## Single Player Mode
