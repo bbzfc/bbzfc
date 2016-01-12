@@ -12,7 +12,7 @@ A **Game World** encapsulates the following properties:
   - Layout of objects, structures, flags, etc.
   - Terrain.
   - Atmosphere and weather conditions.
-  - Time zone (night or day, specific time of day.
+  - Time zone (night or day, specific time of day).
 - Private or public. If private, there exists a specific set of users that can access the **Game World**.
 - Match type.
 - Time control.
