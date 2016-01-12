@@ -4,10 +4,10 @@
 
 ---
 
-The player level for a client (gamer, player) will be specific to a **Main Server**. The player level will be an integer
-between 0 and Infinity. It will be calculated with the following formula:
+The player level for a client (gamer, player) will be specific to a **Main Server**. The player level will be an a
+positive integer between 0 and Infinity. It will be calculated with the following formula:
 
-    NumHours <= e^Level
+    NumHours >= e^Level
 
 where **NumHours** is the total number of hours the player played on the **Main Server** (any match type, and game
 world, etc.), **e** is the [Euler's Number](https://en.wikipedia.org/wiki/E_%28mathematical_constant%29), and **Level**
