@@ -26,4 +26,8 @@ visible target, then you release the missile. Time between missile shots is much
 shockwaves effect is small (approximately four tank lengths).
 - Useless Flag. Use it wisely = )
 
-The original flag set will remain until the end of time. No new flags will be added. No flags will be removed.
+The original flag set will remain until the end of time. No new flags will be added to **bbzfc**. No flags will be
+removed from **bbzfc**.
+
+Different **Game Worlds** can be with different sets of available flags. From no flags, to all flag types. This will be
+configurable.
