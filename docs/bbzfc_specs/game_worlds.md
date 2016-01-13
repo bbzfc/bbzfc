@@ -14,8 +14,8 @@ A **Game World** encapsulates the following properties:
   - Atmosphere and weather conditions.
   - Time zone (night or day, specific time of day).
 - Private or public. If private, there exists a specific set of users that can access the **Game World**.
-- Maximal number of players.
-- Minimal number of players.
+- Maximum number of players.
+- Minimum number of players.
 - Teams:
   - Number of different teams.
   - Team names.
