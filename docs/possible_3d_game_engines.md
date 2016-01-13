@@ -5,19 +5,16 @@ This document will list possible game engines to use for the client part of **bb
 
 ## Engine criteria
 
-Because the end-user of **bbzfc** can setup a **Tank Battle Portal** and charge money for it's use, we need to select a
+- Because the end-user of **bbzfc** can setup a **Tank Battle Portal** and charge money for it's use, we need to select a
 game engine with an appropriate license. Although some engines do have an open source license, they charge you money if
 the product you make with the engine starts earning you money. An example of engine to avoid is
 [Unity - Game Engine](https://unity3d.com/). Therefore, to be on the safe site, only engines with an MIT license will be
 considered. Also, engines with open source code base, but with the fine print reading "you owe us a % of gross revenue
 resulting from any commercial products built using the engine", will not be considered.
-
-The engine should be written in either C or C++. The engine should have support for including it in a C/C++ project
+- The engine should be written in either C or C++. The engine should have support for including it in a C/C++ project
 (game).
-
-The engine should be cross-platform to some degree. At least Linux, and Windows support.
-
-The engine should use the modern programmable graphics pipeline.
+- The engine should be cross-platform to some degree. At least Linux, and Windows support.
+- The engine should use the modern programmable graphics pipeline.
 
 
 ## Possible engines
