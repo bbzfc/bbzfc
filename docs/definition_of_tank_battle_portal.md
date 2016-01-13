@@ -21,8 +21,8 @@ the portal administrator doesn't get boggled down in technical details.
 Of course, running a server solution to host a **Tank Battle Portal** costs money. Even if you just set up a single
 home PC for this task, at least Internet connection charges must be paid. A portal administrator may choose to charge
 the users (gamers) to use his portal. The best thing about the **bbzfc** project is that it's licensed under the MIT
-license. So, you can use the **bbzfc** open source software to create and run the portal, but you don't have to pay
-for it EVEN IF YOU CHARGE THE USERS USING YOUR PORTAL! = )
+license. So, you can use the **bbzfc** open source software to create and run the portal for free. **You don't have to
+pay for using bbzfc even if you create a paid portal with it!** = )
 
 
 ## Running a Tank Battle Portal for FREE
