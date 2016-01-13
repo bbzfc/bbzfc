@@ -4,7 +4,7 @@
 
 ---
 
-Inside the system there will exist a system of roles which will allow access to various functionality. For example,
+Inside the system there will exist a hierarchy of roles which will allow access to various functionality. For example,
 
 - general game play
 - user administration
