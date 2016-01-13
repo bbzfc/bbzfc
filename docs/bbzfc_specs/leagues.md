@@ -30,7 +30,7 @@ Registered clients (registered with the League's Main Server) can access this se
 - Stop a functional League (if they are the administrator of that League).
 
 A separate Forum for Leagues will not be provided. All League discussions should go to the general Forum of the
-**Main Server**, or a separate Forum managed by the League administrator on their own,
+**Main Server**, or a separate Forum managed by the League administrator on their own.
 
 
 ## League matches
