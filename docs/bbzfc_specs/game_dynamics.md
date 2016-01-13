@@ -15,4 +15,4 @@ Specific rules about tank and world dynamics. Not in any particular order.
 - An in-game set of flags that modify the tank's abilities.
 - Tank can go up ramps, and it tilts while doing this. Tank can shoot while tilted.
 - Tank can drive forwards, backwards, turn left, turn right, jump, and shoot.
-- Three possible projectiles for shooting: bullets, lasers, guided missiles.
+- Four possible projectiles for shooting: bullets, lasers, guided missiles, and shockwaves.
