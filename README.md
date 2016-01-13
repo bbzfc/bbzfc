@@ -1,12 +1,14 @@
 # bbzfc
 
-bbzfc | A tactical multi-player FPS tank game
+bbzfc | An open-source system for creating Tank Battle Portals
 
 
 ## Documentation
 
-Currently, the documentation is under heavy development. Most of it is incomplete and/or missing. You can take a look at:
+Currently, the documentation is under heavy development. Most of it is incomplete and/or missing. You can take a look
+at:
 
+- [What's a Tank Battle Portal?](docs/definition_of_tank_battle_portal.md)
 - [bbzfc specs](docs/bbzfc_specs.md)
 - [For historical reference](docs/for_historical_reference.md)
 
