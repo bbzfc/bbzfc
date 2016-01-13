@@ -1,5 +1,7 @@
 # bbzfc
 
+![bbzfc](assets/images/bbzfc-tank-battle-portal-logo.png "bbzfc")
+
 bbzfc | An open-source system for creating Tank Battle Portals
 
 
