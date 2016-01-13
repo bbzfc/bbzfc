@@ -14,12 +14,19 @@ A **Game World** encapsulates the following properties:
   - Atmosphere and weather conditions.
   - Time zone (night or day, specific time of day).
 - Private or public. If private, there exists a specific set of users that can access the **Game World**.
+- Maximal number of players.
+- Minimal number of players.
+- Teams:
+  - Number of different teams.
+  - Team names.
+  - Number of players per team.
 - Match type.
 - Time control.
 - Difficulty level.
+- League specific configuration.
 
-A **Game World** is accessible on a **Main Server** (server infrastructure to be discussed in a separate place). If
-a desirable **Game World** does not exist, a player can setup a new one with desired configurations. The custom game
+A **Game World** is accessible on a **Main Server** (server infrastructure to be discussed in a separate document). If
+a desirable **Game World** does not exist, a player can setup a new one with desired configuration. The custom game
 world will be accessible through the **Main Server** it was created on.
 
 A **Game World** can use the pre-made maps or custom player created ones.
