@@ -14,3 +14,6 @@ Account verification will not be necessary with this option.
 
 After registration (and, if necessary, account verification), the client can proceed to choose a nickname on the
 **Main Server**. Once chosen, a nickname can't be changed in the future.
+
+Also, after registration, the client will have access to all of the **Main Server** online resources. For example,
+he will be able to post of the forum, and join Leagues.
