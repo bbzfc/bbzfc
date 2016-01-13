@@ -2,7 +2,21 @@
 
 [bbzfc specs](../bbzfc_specs.md) **>>** [Technical specifications](technical_specifications.md) **>>** [Clients (gamers)](clients_gamers.md) **>>** `Client authorization`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+
+Inside the system there will exist a system of roles which will allow access to various functionality. For example,
+
+- general game play
+- user administration
+- server management
+- global announcements
+- chatroom administration
+- etc.
+
+The roles can be freely added and removed for clients by a user with the power to do so.
+
+Also, for private **Game Worlds** named user lists can be created by specifics clients to quickly restrict access to
+the **Game World**.
+
+Also, for **League** games, clients which are registered in the specific league will be automatically allowed to play
+in **League** games.
