@@ -11,7 +11,7 @@ by **bbzfc**:
 - web Leagues service
 
 What is required from the administrator of a portal is just providing resources for **bbzfc** powered
-**Tank Battle Portal** to run on. The resources can be as simply as a single PC, or a complex infrastructure of cloud
+**Tank Battle Portal** to run on. The resources can be as simple as a single PC, or a complex infrastructure of cloud
 hosted virtual machines. **bbzfc** will provide a collection of tools to help manage complex systems of servers so that
 the portal administrator doesn't get boggled down in technical details.
 
