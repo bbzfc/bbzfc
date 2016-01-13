@@ -29,8 +29,8 @@ specified amount of time the game ends, and the player's level is updated.
 Under this category, the following match types will exist:
 
 1. **Free play**. Destroy as many tanks from opposing teams as possible, and don't get destroyed yourself.
-2. **Capture the flag**. Get the other team **Team Flag**, and bring it to your base. If you manage to bring it to your
-base, all tanks from the opposing team are destroyed.
+2. **Capture the flag**. Get the other team's **Team Flag**, and bring it to your base. If you manage to bring it to
+your base, all tanks from the opposing team are destroyed.
 
 Like with the **Every man for himself** category, games under this category can be infinite, or time controlled.
 However, in timed games, after the game ends, and team's level and scoring information is updated. If it was a
