@@ -11,7 +11,7 @@ organized game matches between a constant (or very close to this) set of registe
 
 ## The Main Server League online resource
 
-This online service will be reachable by a standard web-browser. It will information about:
+This online service will be reachable by a standard web-browser. It will have information about:
 
 - currently operational leagues
 - League specific information
