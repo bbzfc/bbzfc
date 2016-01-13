@@ -23,7 +23,7 @@ A **Game World** encapsulates the following properties:
   - Number of players per team.
 - Match type.
 - Time control.
-- Difficulty level.
+- Difficulty level. Maximum and/or minimum **Player Level** of players that can join the game.
 - League specific configuration.
 
 A **Game World** is accessible on a **Main Server** (server infrastructure to be discussed in a separate document). If
