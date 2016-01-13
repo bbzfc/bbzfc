@@ -4,8 +4,8 @@
 
 ---
 
-Once the user is authenticated, he will have access to the system. Inside the system there will exist a hierarchy of
-roles which will allow access to various functionality. For example,
+Once the user is authenticated, he will have access to the **Main Server**. Inside the system there will exist a
+hierarchy of roles which will allow access to various functionality. For example,
 
 - general game play
 - user administration
