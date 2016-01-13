@@ -2,8 +2,8 @@
 
 Generally speaking, a **Tank Battle Portal** is a collection of resources enabling a group of people
 to play together online, battling each other by controlling tanks inside a virtual **Game World**. The project
-**bbzfc** will provide free open-source software to create such portals. The following resources will be managed
-by **bbzfc**:
+**bbzfc** will provide free open-source software to create such portals. The following resources will be provided and
+managed by **bbzfc** software:
 
 - game client
 - server infrastructure
