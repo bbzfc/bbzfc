@@ -18,7 +18,7 @@ from the front (or the back).
 or a laser. You can kill a burrowed tank with a guided missile, or by driving on top of it.
 - **Laser Flag**. The tanks shoots a straight infinite laser. Time between laser shots is much larger than between normal
 bullets.
-- **Guided Missile** Flag. The tank shoots a guided missile instead of normal bullets. How it works: first you lock on to a
+- **Guided Missile Flag**. The tank shoots a guided missile instead of normal bullets. How it works: first you lock on to a
 visible target, then you release the missile. Time between missile shots is much larger than between normal bullets.
 - **Invisible Flag**. Tank is invisible out of the window. Tank is visible on the radar.
 - **Stealth Flag**. Tank is invisible on the radar. Tank is visible out of the window.
