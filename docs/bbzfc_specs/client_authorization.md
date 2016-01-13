@@ -4,7 +4,8 @@
 
 ---
 
-Inside the system there will exist a hierarchy of roles which will allow access to various functionality. For example,
+Once the user is authenticated, he will have access to the system. Inside the system there will exist a hierarchy of
+roles which will allow access to various functionality. For example,
 
 - general game play
 - user administration
@@ -15,8 +16,8 @@ Inside the system there will exist a hierarchy of roles which will allow access 
 
 The roles can be freely added and removed for clients by a user with the power to do so.
 
-Also, for private **Game Worlds** named user lists can be created by specifics clients to quickly restrict access to
-the **Game World**.
+Also, for private **Game Worlds** user lists can be created by specifics clients to quickly restrict access to
+the **Game World**. These user lists will be saved, and available for reuse in future **Game Worlds**.
 
-Also, for **League** games, clients which are registered in the specific league will be automatically allowed to play
+Also, for **League** games, clients which are signed-up for a specific league will be automatically allowed to play
 in **League** games.
