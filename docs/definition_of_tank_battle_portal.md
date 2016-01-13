@@ -1,6 +1,6 @@
 # What's a Tank Battle Portal?
 
-Generally speaking, a **Tank Battle Portal** is a collection of resources enabling for a group of people
+Generally speaking, a **Tank Battle Portal** is a collection of resources enabling a group of people
 to play together online, battling each other by controlling tanks inside a virtual **Game World**. The project
 **bbzfc** will provide free open-source software to create such portals. The following resources will be managed
 by **bbzfc**:
