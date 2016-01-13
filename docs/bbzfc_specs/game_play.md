@@ -24,8 +24,8 @@ pre-made **Game Worlds** (different maps, and other game rules to be described l
 ## Multiplayer Mode
 
 In **Multiplayer Mode** a LAN connection or an Internet connection is required for joining a game. The player plays
-along with others inside a Game World. Depending on the match type (to be described later), several objectives will be
-presented to the player:
+along with others inside a **Game World**. Depending on the match type (to be described later), several objectives will
+be presented to the player:
 
 - destroy other tanks
 - don't get destroyed
