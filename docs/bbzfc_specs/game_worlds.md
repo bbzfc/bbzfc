@@ -19,6 +19,7 @@ A **Game World** encapsulates the following properties:
 - Teams:
   - Number of different teams.
   - Team names.
+  - Team colors.
   - Number of players per team.
 - Match type.
 - Time control.
