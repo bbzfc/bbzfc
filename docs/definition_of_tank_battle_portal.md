@@ -30,3 +30,9 @@ pay for using bbzfc even if you create a paid portal with it!** = )
 The project **bbzfc** will provide a simplified setup for cases when someone just wants to play on a LAN with his
 friends. Obviously, everyone will have to be connected to the local area network to play. Such a scheme is free (without
 taking into consideration the electrical bills).
+
+
+## Does it have to be Tanks?
+
+No! You are absolutely free to create your own assets (maps, world objects, vehicles, etc.), rebuild the **bbzfc**
+project, and have your own custom **Game Battle Portal**. The possibilities are endless!
