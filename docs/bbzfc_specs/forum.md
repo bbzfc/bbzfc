@@ -2,7 +2,10 @@
 
 [bbzfc specs](../bbzfc_specs.md) **>>** [Technical specifications](technical_specifications.md) **>>** [Clients (gamers)](clients_gamers.md) **>>** `Forum`
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+
+Along with a **Main Server**, an optional forum can be rolled out. Registered clients can use it as a more permanent
+place for discussions. Because the forum will be made available as an online service reachable by a web-browser, users
+can more easily share content on it such as videos, images, and other digital medium.
+
+As with many online games, a forum is a very necessary thing for a gamer community!
