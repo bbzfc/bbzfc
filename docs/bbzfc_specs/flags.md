@@ -11,20 +11,20 @@ When a flag is dropped, it disappears and appears in a different location in the
 
 The following flags will exist in the **bbzfc** game:
 
-- Wings Flag. The tank can fly.
-- Thin Flag. When facing the tank from the front (or the back), others will see it as a thin vertical line. Hard to hit
+- **Wings Flag**. The tank can fly.
+- **Thin Flag**. When facing the tank from the front (or the back), others will see it as a thin vertical line. Hard to hit
 from the front (or the back).
-- Burrow Flag. The tank goes under the ground, and you only see it's top. You can't kill a burrowed tank with a bullet
+- **Burrow Flag**. The tank goes under the ground, and you only see it's top. You can't kill a burrowed tank with a bullet
 or a laser. You can kill a burrowed tank with a guided missile, or by driving on top of it.
-- Laser Flag. The tanks shoots a straight infinite laser. Time between laser shots is much larger than between normal
+- **Laser Flag**. The tanks shoots a straight infinite laser. Time between laser shots is much larger than between normal
 bullets.
-- Guided Missile Flag. The tank shoots a guided missile instead of normal bullets. How it works: first you lock on to a
+- **Guided Missile** Flag. The tank shoots a guided missile instead of normal bullets. How it works: first you lock on to a
 visible target, then you release the missile. Time between missile shots is much larger than between normal bullets.
-- Invisible Flag. Tank is invisible out of the window. Tank is visible on the radar.
-- Stealth Flag. Tank is invisible on the radar. Tank is visible out of the window.
-- Shockwave Flag. Tank sends out a spherical shockwave. The shockwave kills all tanks in it's path. The radius of the
+- **Invisible Flag**. Tank is invisible out of the window. Tank is visible on the radar.
+- **Stealth Flag**. Tank is invisible on the radar. Tank is visible out of the window.
+- **Shockwave Flag**. Tank sends out a spherical shockwave. The shockwave kills all tanks in it's path. The radius of the
 shockwaves effect is small (approximately four tank lengths).
-- Useless Flag. Use it wisely = )
+- **Useless Flag**. Use it wisely = )
 
 The original flag set will remain until the end of time. No new flags will be added to **bbzfc**. No flags will be
 removed from **bbzfc**.
