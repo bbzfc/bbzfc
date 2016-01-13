@@ -5,8 +5,8 @@
 ---
 
 [Leagues](https://en.wikipedia.org/wiki/Sports_league) is a concept that is common to many sports and many online games.
-**bbzfc** project will have a built-in League system. The main idea is that a League will allow for reoccurring organized
-game matches between a constant (or very close to this) set of registered players.
+**bbzfc** project will have a built-in League system. The main idea is that a League will allow for reoccurring
+organized game matches between a constant (or very close to this) set of registered players.
 
 
 ## The Main Server League online resource
