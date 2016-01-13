@@ -11,7 +11,8 @@ organized game matches between a constant (or very close to this) set of registe
 
 ## The Main Server League online resource
 
-This online service will be reachable by a standard web-browser. It will have information about:
+This online service will be reachable by a standard web-browser, or from inside a game client. It will have information
+about:
 
 - currently operational leagues
 - League specific information
@@ -20,7 +21,7 @@ This online service will be reachable by a standard web-browser. It will have in
 - history records of League matches
 - archive of discontinued Leagues
 
-Registered clients (registered with the League's Main Server) can login into this service and:
+Registered clients (registered with the League's Main Server) can access this service and:
 
 - Request to join a League.
 - Leave a League.
