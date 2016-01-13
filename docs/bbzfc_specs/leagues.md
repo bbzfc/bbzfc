@@ -14,10 +14,10 @@ organized game matches between a constant (or very close to this) set of registe
 This online service will be reachable by a standard web-browser, or from inside a game client. It will have information
 about:
 
-- currently operational leagues
+- currently operational Leagues
 - League specific information
 - current matches
-- statistics on league players
+- statistics on League players
 - history records of League matches
 - archive of discontinued Leagues
 
