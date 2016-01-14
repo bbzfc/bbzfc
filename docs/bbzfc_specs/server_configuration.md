@@ -4,7 +4,13 @@
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+All aspect of **Tank Battle Portal** server infrastructure setup will be automatized with scripts. The only separate
+custom configuring the administrator will need to do is:
+
+- Linux distribution specific configuration.
+- Domain name specific configurations (usually on the domain registrar's side).
+- Making sure that the various servers are reachable via the Internet.
+- Network security. Taking care of any network holes. Enabling necessary network ports.
+
+Also, if the portal administrator will want to introduce some scheme of making users pay for accessing the portal,
+he will need to implement this functionality himself.
