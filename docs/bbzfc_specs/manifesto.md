@@ -8,7 +8,7 @@
 ## General things
 
 1. Create an extensible system which can be reused in future gaming projects. Ensure that the documentation and the API
-is complete, and that the code base is written in a good style and well structured.It should be very easy for a
+is complete, and that the code base is written in a good style and well structured. It should be very easy for a
 developer to pick up the project and start modifying it to his own needs.
 2. Remain true to the original intent set out at project's start. The project is about creating a software solution that
 can set up a **Tank Battle Portal**. The primary demonstrator of the project is a tank FPS game. If at some future
