@@ -12,7 +12,7 @@ is complete, and that the code base is written in a good style and well structur
 developer to pick up the project and start modifying it to his own needs.
 2. Remain true to the original intent set out at project's start. The project is about creating a software solution that
 can set up a **Tank Battle Portal**. The primary demonstrator of the project is a tank FPS game. If at some future
-moment there will need to be make a decision about changing the core idea/concept of **bbzfc**, then a new project must
+moment there will need to be made a decision about changing the core idea/concept of **bbzfc**, then a new project must
 be created and **bbzfc** should continue to function as it was originally intended.
 3. The original project documentation outlining the project ideas and goals can only be refined, and can't be
 drastically changed. More detailed technical documentation with implementation specific details should be created and
