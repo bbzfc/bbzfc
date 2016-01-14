@@ -5,7 +5,7 @@
 ---
 
 A **Main Server** is a central access point to a **Tank Battle Portal**. It has an easy to remember domain name
-(for example [tank-battle.net](http://tank.battle.net). When a user starts up a game client, he specifies the
+(for example [tank-battle.net](http://tank-battle.net). When a user starts up a game client, he specifies the
 **Tank Battle Portal** he wants to join, by specifying it's domain name. If a portal doesn't have a domain name
 associated with it, it can still be accessed by it's IP address.
 
