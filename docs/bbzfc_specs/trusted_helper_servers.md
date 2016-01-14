@@ -9,7 +9,7 @@ For the **Tank Battle Portal** to deliver a true
 almost all of it's work to dedicated **Trusted helper servers**. By **Trusted** it is meant that they are
 controlled by the same administrator, and that they are running uncompromised pristine code base of the **bbzfc**
 project. The greater the number of players using the portal, the more trusted servers will be required to allow
-for lag-free online gameplay.
+for a lag-free online gameplay.
 
 The following are some of the possible tasks that trusted servers will be able to do:
 
