@@ -36,4 +36,4 @@ the current project leader is not able to maintain his status any longer, and a 
 5. The project is considered dead if a news release has not been made in the past 2 months, and there is no new leader
 to take over the project leadership.
 6. The project leader must resign if 100% of active developers sign a petition to replace him. An active developer is
-a developer that responds to the petition within one (1) calendar month.
+a developer that responds to the petition within 1 calendar month.
