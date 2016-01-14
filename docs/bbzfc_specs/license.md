@@ -4,7 +4,7 @@
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **bbzfc** project follows the [Open-source software](https://en.wikipedia.org/wiki/Open-source_software) ideals.
+From the start, the [MIT License](https://en.wikipedia.org/wiki/MIT_License) was chosen. Many things can be said about
+the various licensing philosophizes, but the choice for **bbzfc** has been already made. So either enjoy this fact,
+or go start your own project with another license = )
