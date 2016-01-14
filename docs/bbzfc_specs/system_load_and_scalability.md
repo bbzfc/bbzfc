@@ -7,7 +7,7 @@
 The **bbzfc** project will implement a system that will try to achieve linear scalability. Form a mathematical point of
 view, you can think of the following function:
 
-  MAX_PLAYERS = c * NUM_SERVERS
+    MAX_PLAYERS = c * NUM_SERVERS
 
 where **MAX_PLAYERS** is the maximum number of players supported by a system, **c** is a numerical constant which
 is a characteristic of the system, and  **NUM_SERVERS** is the number of servers working in the system.
