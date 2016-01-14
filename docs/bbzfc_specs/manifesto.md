@@ -27,7 +27,7 @@ span.
 1. The project should strive to resolve all project related issues in a democratic way.
 2. If there is a conflict, a debate, or a decision that must be made - the way to resolve it is through voting on the
 matter. All of the current project developers can vote. The decision favored by the majority of those who voted is the
-new that need to be followed through. If the voting process has a 50/50 outcome, then the project leader has the final
+one that need to be followed through. If the voting process has a 50/50 outcome, then the project leader has the final
 say.
 3. The project leader must be transparent about the project status and the future milestones. The project should commit
 to making news releases no later than 2 months after the previous news release. If this can't be met, then
