@@ -11,7 +11,7 @@ controlled by the same administrator, and that they are running uncompromised pr
 project. The greater the number of players using the portal, the more trusted servers will be required to allow
 for a lag-free online gameplay.
 
-The following are some of the possible tasks that trusted servers will be able to do:
+The following are some of the possible tasks that trusted servers will be able to perform autonomously:
 
 - various databases management and access can be split between multiple trusted servers
 - individuals **Game Worlds** with matches can be split between multiple trusted servers
