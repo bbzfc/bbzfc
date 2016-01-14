@@ -16,4 +16,4 @@ will not include:
 Basically the whole server infrastructure will be setup on a single machine as economically as possible.
 
 To access the server, you will just need to know it's LAN IP, and decide on a nickname for yourself. No password will be
-required, you just can't choose the same nickname as someone else.
+required (you just can't choose the same nickname as someone else).
