@@ -4,7 +4,16 @@
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If the whole **Battle Portal** idea is to grandiose for you, and you just want to play with a few friends on a LAN,
+the **bbzfc** project will provide simplified installation scheme to minimize the burden on a PC. The simplified schema
+will not include:
+
+- support for web services
+- support for user registration, and authentication
+- support for a forum
+- support for Leagues
+
+Basically the whole server infrastructure will be setup on a single machine as economically as possible.
+
+To access the server, you will just need to know it's LAN IP, and decide on a nickname for yourself. No password will be
+required, you just can't choose the same nickname as someone else.
