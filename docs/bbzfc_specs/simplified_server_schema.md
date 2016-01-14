@@ -4,7 +4,7 @@
 
 ---
 
-If the whole **Battle Portal** idea is to grandiose for you, and you just want to play with a few friends on a LAN,
+If the whole **Battle Portal** idea is too grandiose for you, and you just want to play with a few friends on a LAN,
 the **bbzfc** project will provide simplified installation scheme to minimize the burden on a PC. The simplified schema
 will not include:
 
