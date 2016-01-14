@@ -13,7 +13,7 @@ for a lag-free online gameplay.
 
 The following are some of the possible tasks that trusted servers will be able to perform autonomously:
 
-- Various databases management and access can be split between multiple trusted servers.
+- The management of the various databases can be split up between multiple trusted servers.
 - Individuals **Game Worlds** with matches can be split between multiple trusted servers.
 - It will be possible to host a large **Game world** with thousands of players between multiple trusted servers.
 This can be realistically achieved with real-time flow of NPC objects and players between the different servers.
