@@ -18,7 +18,7 @@ be created and **bbzfc** should continue to function as it was originally intend
 drastically changed. More detailed technical documentation with implementation specific details should be created and
 maintained separately. Basically, the original documentation is a sort-of "technical manifesto".
 4. If at some future moment it becomes apparent that the original project  plans simply can't be realized due to
-technical limitations, that the project should stop any further development, and go into the dead phase of it's life
+technical limitations, then the project should stop any further development, and go into the dead phase of it's life
 span.
 
 
