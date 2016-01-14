@@ -4,7 +4,12 @@
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis
-aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **bbzfc** project will implement a system that will try to achieve linear scalability. Form a mathematical point of
+view, you can think of the following function:
+
+  MAX_PLAYERS = c * NUM_SERVERS
+
+where **MAX_PLAYERS** is the maximum number of players supported by a system, **c** is a numerical constant which
+is a characteristic of the system, and  **NUM_SERVERS** is the number of servers working in the system.
+
+Obviously, the goal is to achieve a linearly scalable system. How it will turn out in practice - remains to be seen = )
