@@ -5,7 +5,7 @@
 ---
 
 For the **Tank Battle Portal** to deliver a true
-[MMOG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_game), the **Main Server** must delegate
+[MMOG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_game) experience, the **Main Server** must delegate
 almost all of it's work to dedicated **Trusted helper servers**. By **Trusted** it is meant that they are
 controlled by the same administrator, and that they are running uncompromised pristine code base of the **bbzfc**
 project. The greater the number of players using the portal, the more trusted servers will be required to allow
