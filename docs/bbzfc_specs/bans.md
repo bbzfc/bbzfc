@@ -23,7 +23,7 @@ some degree of policing involved. Also, there will be a mechanism for reporting 
 ## Request for a ban on a specific user
 
 If someone sees that someone else is doing something bad, he can quickly report on that user. An in-game system will
-be created to allow to request a ban with just 2-clicks. However, to prevent from misuse of this feature, if an
+be created to allow to request a ban with just 2-clicks. However, to prevent the misuse of this feature, if an
 administrator reviewing this ban request (full logs of all player actions will be kept on a **Main Server**) will see
 that there is no reason for it, then the player who requested the ban will get banned himself.
 
