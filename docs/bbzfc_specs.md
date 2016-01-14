@@ -30,3 +30,4 @@
 3. [Ideology](bbzfc_specs/ideology.md)
   1. [Manifesto](bbzfc_specs/manifesto.md)
   2. [License](bbzfc_specs/license.md)
+  3. [Foundation](bbzfc_specs/foundation.md)

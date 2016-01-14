@@ -4,6 +4,7 @@
 
 1. [Manifesto](manifesto.md)
 2. [License](license.md)
+3. [Foundation](foundation.md)
 
 ---
 

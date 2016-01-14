@@ -1,6 +1,6 @@
-# Manifesto
+# Foundation
 
-[bbzfc specs](../bbzfc_specs.md) **>>** [Ideology](ideology.md) **>>** `Manifesto`
+[bbzfc specs](../bbzfc_specs.md) **>>** [Ideology](ideology.md) **>>** `Foundation`
 
 ---
 
