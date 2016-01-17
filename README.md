@@ -12,6 +12,7 @@ Currently, you can take a look at:
 - [What's a Tank Battle Portal?](docs/definition_of_tank_battle_portal.md)
 - [bbzfc specs](docs/bbzfc_specs.md)
 - [List of possible 3D game engines](docs/possible_3d_game_engines.md)
+  - [Urho3D to be used for tank demonstrator](docs/the_choice_of_urho3d_game_engine.md)
 - [For historical reference](docs/for_historical_reference.md)
 
 
