@@ -4,8 +4,8 @@
 
 The **bbzfc** project will follow the [semver](http://semver.org/) methodology for versioning. This means
 that by version 1.0.0, the project will have to be stable enough to be used in production. The plan is
-to have a minimally functioning **bbzfc** by version 1, and also a publicaly available **Battle Portal**
-to show case what th eproject can do. This is pretty much what **Phase 1** is about. Also, by version
+to have a minimally functioning **bbzfc** by version 1, and also a publicly available **Battle Portal**
+to show case what the project can do. This is pretty much what **Phase 1** is about. Also, by version
 1.0.0 all of the public APIs (code wise, and service wise) will be stabilized.
 
 
