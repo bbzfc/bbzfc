@@ -23,7 +23,8 @@ Building upon the experience, a version 2 will be created, and **bbzfc** project
 from scratch. The plan is to make a better version of **bbzfc** project based on the lessons learned while
 working on version 1.x.x, and also operating a public **Battle Portal**. Another goal for version 2.0.0
 is to introduce a different game demonstrator along with a whole documentation/tutorial on how to build
-a 3D FPS game and integrate it with the **bbzfc** system.
+a 3D FPS game and integrate it with the **bbzfc** system. Version 2.0.0 will introduce breaking API changes
+with version 1.x.x.
 
 
 ## Phase 4
