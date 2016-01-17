@@ -15,6 +15,16 @@ Currently, you can take a look at:
 - [For historical reference](docs/for_historical_reference.md)
 
 
+## Road Map
+
+At this stage, there is no definite timeline. Just a road map that the **bbzfc** development will try to take.
+
+![bbzfc road map phase 1](assets/images/bbzfc-road-map-phase-1.png "bbzfc road map phase 1")
+
+What does the **Phase 1** mean? The road map, and it's future, is discussed thoroughly in
+[bbzfc: project road map](docs/project_roadmap.md).
+
+
 ## Contributing
 
 Anyone can contribute. Clone this repository, write some code, and submit a pull request. Core contributors will be
