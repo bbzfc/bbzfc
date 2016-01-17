@@ -22,7 +22,7 @@ At this stage, there is no definite timeline. Just a road map that the **bbzfc**
 ![bbzfc road map phase 1](assets/images/bbzfc-road-map-phase-1.png "bbzfc road map phase 1")
 
 What does the **Phase 1** mean? The road map, and it's future, is discussed thoroughly in
-[bbzfc: project road map](docs/project_roadmap.md).
+[bbzfc project road map](docs/project_roadmap.md).
 
 
 ## Contributing
