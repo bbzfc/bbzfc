@@ -2,7 +2,7 @@
 
 1. [Project description and goals](bbzfc_specs/project_description_and_goals.md)
 2. [Technical specifications](bbzfc_specs/technical_specifications.md)
-..1. [Cross platform support](bbzfc_specs/cross_platform_support.md)
+  1. [Cross platform support](bbzfc_specs/cross_platform_support.md)
   2. [Visual graphics](bbzfc_specs/visual_graphics.md)
   3. [Game mechanics](bbzfc_specs/game_mechanics.md)
     1. [Game play](bbzfc_specs/game_play.md)
